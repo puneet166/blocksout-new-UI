@@ -1,9 +1,0 @@
-2024-02-14T12:54:59.612 application=api_v2 request_id=F7O76oPO_7v2rkcAAHOB [info] Sent 200 in 399µs on GET /api/v2/main-page/indexing-status?
-2024-02-14T12:55:18.996 application=api_v2 request_id=F7O77wcnCZx0LLYAAIsB [info] Sent 200 in 1ms on GET /api/v2/main-page/blocks?
-2024-02-14T12:59:33.744 application=api_v2 request_id=F7O8Klc9DG4vbjUAAFKh [info] Sent 200 in 1ms on GET /api/v2/main-page/blocks?
-2024-02-14T13:01:41.887 application=api_v2 request_id=F7O8SC04vJ39F4wAABXB [info] Sent 200 in 577µs on GET /api/v2/main-page/indexing-status?
-2024-02-14T13:01:41.890 application=api_v2 request_id=F7O8SC1CGKpbTzEAABXh [info] Sent 200 in 4ms on GET /api/v2/stats/charts/transactions?
-2024-02-14T13:01:41.965 application=api_v2 request_id=F7O8SDHR9ZtZp2YAACpi [info] Sent 200 in 1ms on GET /api/v2/main-page/blocks?
-2024-02-14T13:01:41.966 application=api_v2 request_id=F7O8SDIEio7VszgAACqi [info] Sent 200 in 359µs on GET /api/v2/config/backend-version?
-2024-02-14T13:01:42.026 application=api_v2 request_id=F7O8SDHpUlLOfqgAACqC [info] Sent 200 in 61ms on GET /api/v2/main-page/transactions?
-2024-02-14T13:01:42.245 application=api_v2 request_id=F7O8SC0_Y5xf_AMAACoi [info] Sent 200 in 358ms on GET /api/v2/stats?
